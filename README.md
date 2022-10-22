@@ -7,7 +7,7 @@ Aplicación para la gestión de usuarios de una aplicación web.
 Aplicación se deberá realizada a través de API REST (HTTP).
 La aplicación persistirá los datos, de forma que si se para todos los cambios deberán permanecer guardados(especie de base de datos)
 
-## Definición de entidades :bookmark_tabs:
+## Definición de entidades :spiral_notepad:
 
 -   **Usuario**: Usuario registrado en la plataforma, todos los campos son obligatorios.
     -   Nombre: Mínimo de 2 caracteres y un máximo 20 (Todos los caracteres serán válidos)
